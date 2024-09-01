@@ -32,7 +32,7 @@ OR follow gitbash commands
 
 11. first register and then login
 
-12. admin login details username = harshitbansal and Password=12345.
+
 
 ## If you like my project hit a star button
 
